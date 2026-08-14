@@ -190,7 +190,7 @@ curl -s http://localhost:8080 | grep Hostname
 k3d cluster delete asciiartify
 ```
 
-**Запис демо:** ``
+**Запис демо:** [![asciicast](https://asciinema.org/a/TnCmeagWUAlD0pkg.svg)](https://asciinema.org/a/TnCmeagWUAlD0pkg)
 
 ---
 
