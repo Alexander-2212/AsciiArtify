@@ -190,7 +190,11 @@ curl -s http://localhost:8080 | grep Hostname
 k3d cluster delete asciiartify
 ```
 
-**Запис демо:** [![asciicast](https://asciinema.org/a/TnCmeagWUAlD0pkg.svg)](https://asciinema.org/a/TnCmeagWUAlD0pkg)
+**Запис демо:**
+
+![k3d demo](demo/k3d-hello.gif)
+ 
+*[Інтерактивний запис на asciinema](https://asciinema.org/a/TnCmeagWUAlD0pkg) - з можливістю паузи та копіювання команд.*
 
 ---
 

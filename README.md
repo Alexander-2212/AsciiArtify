@@ -24,7 +24,9 @@ PoC-стартап: перетворення зображень в ASCII-art з�
 
 Розгортання застосунку на k3d-кластері з нуля:
 
-[![asciicast](https://asciinema.org/a/TnCmeagWUAlD0pkg.svg)](https://asciinema.org/a/TnCmeagWUAlD0pkg)
+![k3d demo](demo/k3d-hello.gif)
+ 
+*[Інтерактивний запис на asciinema](https://asciinema.org/a/TnCmeagWUAlD0pkg) - з можливістю паузи та копіювання команд.*
 
 ## Структура
 
