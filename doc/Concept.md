@@ -192,7 +192,7 @@ k3d cluster delete asciiartify
 
 **Запис демо:**
 
-![k3d demo](demo/k3d-hello.gif)
+![k3d demo](../demo/k3d-hello.gif)
  
 *[Інтерактивний запис на asciinema](https://asciinema.org/a/TnCmeagWUAlD0pkg) - з можливістю паузи та копіювання команд.*
 
